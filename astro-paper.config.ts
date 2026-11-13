@@ -2,14 +2,14 @@ import { defineAstroPaperConfig } from "./src/types/config";
 
 export default defineAstroPaperConfig({
   site: {
-    url: "https://astro-paper.pages.dev/",
-    title: "AstroPaper",
-    description: "A minimal, responsive and SEO-friendly Astro blog theme.",
-    author: "Sat Naing",
-    profile: "https://satna.ing",
+    url: "https://thomasbernier.dev/",
+    title: "Thomas Bernier",
+    description: "Tech news, opinions and developer tips from Thomas Bernier.",
+    author: "Thomas Bernier",
+    profile: "https://github.com/thomasbernier97",
     ogImage: "default-og.jpg",
     lang: "en",
-    timezone: "Asia/Bangkok",
+    timezone: "America/Toronto",
     dir: "ltr",
   },
   posts: {
@@ -23,7 +23,7 @@ export default defineAstroPaperConfig({
     showBackButton: true,
     editPost: {
       enabled: true,
-      url: "https://github.com/satnaing/astro-paper/edit/main/",
+      url: "https://github.com/thomasbernier97/thomasbernier.dev/edit/main/",
     },
     search: "pagefind",
     toc: true,

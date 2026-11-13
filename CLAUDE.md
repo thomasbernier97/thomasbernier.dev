@@ -8,7 +8,7 @@ This file provides guidance to Claude Code (claude.ai/code) when working with co
 
 Personal blog built on the **AstroPaper** theme (Astro 7, Tailwind v4, MDX, Pagefind). Static output, no tests. Node >= 22.
 
-`astro-paper.config.ts`, `src/content/pages/about.md`, and the posts in `src/content/posts/` still hold the theme's demo values and docs (site URL `astro-paper.pages.dev`, author "Sat Naing", and so on).
+The posts in `src/content/posts/` and `src/content/pages/about.md` are still the theme's demo content and docs, and the social and share links in `astro-paper.config.ts` are still placeholders.
 
 ## Conventions
 
