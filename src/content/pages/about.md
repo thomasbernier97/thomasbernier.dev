@@ -3,35 +3,25 @@ title: "About"
 description: "A bit about me and this blog."
 ---
 
-AstroPaper is a minimal, accessible and SEO-friendly blog theme built with [Astro](https://astro.build/) and [Tailwind CSS](https://tailwindcss.com/).
+Hey, I'm Thomas 👋
 
-![Astro Paper](@/assets/images/astropaper-og.jpg)
+I'm a self-taught full stack developer. No CS degree, no roadmap. I learned by building things, breaking them, and figuring out why. These days I'm heads down building my own product, which means I get to touch everything from the database to the pixels.
 
-AstroPaper provides a solid foundation for blogs, or even portfolios\_ with full markdown support, built-in dark mode, and a clean layout that works out-of-the-box.
+## What I use
 
-The blog posts in this theme also serve as guides, docs or example articles\_ making AstroPaper a flexible starting point for your next content-driven site.
+- **OS:** Arch Linux with Hyprland (yes, I use Arch, btw)
+- **Coding:** Claude Code for pretty much everything
+- **Tooling:** pnpm, git and GitKraken
+- **This site:** Astro on Cloudflare, with every post written in Markdown
 
-## Features
+## What you'll find here
 
-AstroPaper comes with a set of useful features that make content publishing easy and effective:
+- My takes on recent tech news
+- Opinions, probably a few unpopular ones
+- Practical dev tips from problems I've actually run into
 
-- SEO-friendly
-- Fast performance
-- Light & dark mode
-- Highly customizable
-- Organizable blog posts
-- Responsive & accessible
-- Static search with [PageFind](https://pagefind.app/)
-- Automatic social image generation
+I'm still figuring out where this goes, so expect it to evolve as I do.
 
-and so much more.
+## Say hi
 
-## Show your support
-
-If you like [AstroPaper](https://github.com/satnaing/astro-paper), consider giving it a star ⭐️.
-
-Found a bug 🐛 or have an improvement ✨ in mind? Feel free to open an [issue](https://github.com/satnaing/astro-paper/issues), submit a [pull request](https://github.com/satnaing/astro-paper/pulls) or start a [discussion](https://github.com/satnaing/astro-paper/discussions).
-
-If you find this theme helpful, you can also [sponsor me on GitHub](https://github.com/sponsors/satnaing) or [buy me a coffee](https://buymeacoffee.com/satnaing) to show your support — every penny counts.
-
-Kyay zuu! 🙏🏼
+This site is open source on [GitHub](https://github.com/thomasbernier97/thomasbernier.dev). If something here helped you, or you think I'm wrong, I'd love to hear about it.
