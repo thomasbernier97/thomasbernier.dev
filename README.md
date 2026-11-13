@@ -164,3 +164,8 @@ Licensed under the MIT License, Copyright © 2026
 ---
 
 Made with 🤍 by [Sat Naing](https://satnaing.dev) 👨🏻‍💻 and [contributors](https://github.com/satnaing/astro-paper/graphs/contributors).
+
+## License
+
+Code is MIT licensed (see LICENSE). Blog posts and written content
+are CC BY 4.0 (see LICENSE-CONTENT).
