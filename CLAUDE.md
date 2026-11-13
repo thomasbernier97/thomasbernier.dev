@@ -32,6 +32,7 @@ pnpm lint                    # eslint
 pnpm format:check            # prettier (CI runs this)
 pnpm format
 pnpm sync                    # regenerate astro: module types after changing content.config.ts
+pnpm og                      # regenerate public/default-og.jpg from scripts/og/og.svg (needs one build first, for the fonts)
 ```
 
 CI (`.github/workflows/ci.yml`) runs `lint`, `format:check`, then `build` on PRs. Run all three before calling a change done. There is no test suite; `pnpm build` (which includes `astro check`) is the correctness gate.

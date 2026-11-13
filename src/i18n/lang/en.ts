@@ -36,7 +36,7 @@ export default {
   },
   footer: {
     copyright: "Copyright",
-    allRightsReserved: "All rights reserved.",
+    contentLicense: "Posts licensed CC BY 4.0",
   },
   pages: {
     tagTitle: "Tag",

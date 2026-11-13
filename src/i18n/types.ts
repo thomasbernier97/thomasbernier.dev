@@ -35,7 +35,7 @@ export interface UIStrings {
   };
   footer: {
     copyright: string;
-    allRightsReserved: string;
+    contentLicense: string;
   };
   pages: {
     tagTitle: string;
